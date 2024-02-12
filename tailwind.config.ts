@@ -11,6 +11,10 @@ const config = {
   prefix: '',
   theme: {
     extend: {
+      fontFamily: {
+        sans: ['var(--font-geist-sans)'],
+        mono: ['var(--font-geist-mono)'],
+      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',
