@@ -15,3 +15,7 @@ Tracetica addresses common problems faced by individuals looking for tools for b
 - **Complexity**: Complexity and clutter can overwhelm users, making it difficult to prioritize tasks and stay focused on what matters most.
 
 Tracetica is more than just an app; it is a transformative tool that empowers users to thrive in their personal and professional lives. By centralizing tasks, records, finances, and other critical elements into one intuitive platform, Tracetica simplifies complexity and increases efficiency and effectiveness.
+
+## License
+
+MIT licensed. See the [LICENSE](./LICENSE) file for details.
